@@ -1,4 +1,5 @@
-👋 Hi, I’m @jithu1991
+👋 Hi, I’m @jithu1991.
+
 👀 I’m interested in Full Stack Web & Mobile Applications Development, Deployment and their Operations.
 - 📫 How to reach me ---> https://www.linkedin.com/in/jgottu/
 
